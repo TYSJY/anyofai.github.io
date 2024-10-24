@@ -2,6 +2,8 @@
 
 <p align="center">最近更新于：2024年10月22日</p>
 
+先说明，以下流程开通需要开卡费70左右，再加买plus，总费用在200+，联系呆小萌可以获取低价plus，只要149/月。我用了一年多，很稳定。就说是我介绍的（推荐人：TYSJY），还可以再优惠5元。微信：ilubbxy
+
 ![中国开通ChatGPT Plus帐号教程：国内如何使用支付宝订阅升级ChatGPT Plus会员](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
 随着ChatGPT的广泛应用，越来越多的用户希望升级到ChatGPT Plus，以享受更好的使用体验。ChatGPT Plus是ChatGPT的会员版本，升级后可解锁许多优质服务，不仅提供更加稳定的服务，使用时也没有字数限制，响应速度更快，答案的准确度也显著提高，整体体验大幅提升。
